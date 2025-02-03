@@ -2,10 +2,10 @@
 
 # TEAM MEMBERS:
 
-# NAME: 
-# Earl Jericho Sagaral
-# Maynard Manabat
-# Gwyn M. Sapio
+
+ Earl Jericho Sagaral
+ Maynard Manabat
+ Gwyn M. Sapio
 
 # COURSE & YEAR: BSIT-4
 
