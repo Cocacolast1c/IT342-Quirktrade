@@ -23,7 +23,7 @@ Sapio,
 
 I am Gwyn Sapio, a 3rd year BSIT student at CIT-U.
 I'm not really into coding but since I'm taking this program, I'm trying my hardest to learn.
-I currently enjoy playing "Don't Starve" and I'm still stuck at night 5!
+I currently enjoy playing "Don't Starve" and I'm still stuck at night 5! Though I love spending time with my friends and love ones, I favor savoring my hours in solitude much more. Going to places and trying all cuisines is my dream. <>
 
 Team Members:
 Sapio
